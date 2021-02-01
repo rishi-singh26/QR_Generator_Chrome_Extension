@@ -1,0 +1,23 @@
+body {
+  font-family: "OpenSans", "Sans-Serif";
+  min-height: 180px;
+  width: 384px;
+  padding-top: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* background-color: rgb(253, 255, 135); */
+}
+#qrcode {
+  width: 250px;
+  height: 250px;
+  margin-top: 15px;
+  display: flex;
+  align-self: center;
+  padding-bottom: 25px;
+}
+
+.header {
+  font-family: Arial;
+}
