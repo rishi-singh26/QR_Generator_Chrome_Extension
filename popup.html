@@ -8,9 +8,14 @@
   </head>
   <body>
     <h1 class="header">QR Generator</h1>
-    <textarea id="text" name="w3review" rows="4" cols="33">
-Enter some test here.</textarea
-    >
+    <textarea
+      placeholder="Enter some text..."
+      id="text"
+      name="w3review"
+      rows="4"
+      cols="33"
+    ></textarea>
+    <p id="error"></p>
     <div id="qrcode"></div>
     <script src="qr.js"></script>
     <script src="popup.js"></script>
