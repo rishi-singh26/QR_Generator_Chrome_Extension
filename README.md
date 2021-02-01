@@ -1,4 +1,4 @@
-# Dillinger
+# QR Generator Chrome Extension
 
 ## Installation
 
